@@ -13,9 +13,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initView();
-		//银虫
-		//就是银虫
-    }
+		//閾惰櫕
+		//灏辨槸閾惰櫕
+		}
 
     private void initView() {
 
