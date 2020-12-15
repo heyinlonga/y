@@ -15,6 +15,12 @@ public class MainActivity extends AppCompatActivity {
         initView();
 		//银虫
 		//就是银虫
+		
+		
+		//小银虫,,,
+		
+		
+		//啊啊啊啊啊
 		}
 
     private void initView() {
